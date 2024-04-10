@@ -1,0 +1,14 @@
+[package]
+name = "using"
+version = "0.0.0"
+edition = "2021"
+
+authors = ["Yannick Schillo <yschillo@yansonline.de>"]
+license = "MIT"
+description = "A macro for simpler builders with method cascading"
+repository = "https://github.com/tp971/using-rs"
+readme = "README.md"
+keywords = ["builder", "method", "cascading", "macro"]
+categories = ["no-std", "rust-patterns"]
+
+[dependencies]
